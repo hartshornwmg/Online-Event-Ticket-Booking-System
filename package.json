@@ -1,0 +1,26 @@
+{
+"name": "online-event-ticket-booking-system-24d3",
+"version": "1.0.0",
+"description": " a web application designed to facilitate the booking of event tickets for various events such as concerts, sports matches, conferences, and more. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/hartshornwmg/Online-Event-Ticket-Booking-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "hartshornwmg",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
